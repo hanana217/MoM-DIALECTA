@@ -21,7 +21,18 @@
   }
 
   *{ box-sizing:border-box; }
-
+  .hero-logo{
+    display:flex;
+    justify-content:center;
+    margin-bottom:28px;
+    }
+    
+    .hero-logo img{
+        width:170px;
+        max-width:45vw;
+        height:auto;
+        filter:drop-shadow(0 10px 25px rgba(230,57,70,.25));
+    }
   html{ scroll-behavior:smooth; }
 
   body{
@@ -214,7 +225,9 @@
 </head>
 <body>
 <div class="wrap">
-
+  <div class="hero-logo">
+    <img src="mom-dialecta-robot.gif" alt="MoM-DIALECTA AI Robot">
+</div>
   <div class="eyebrow">
     <span class="on">DZ</span><span>FR</span><span>EN</span>
   </div>
