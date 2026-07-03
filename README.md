@@ -1,7 +1,15 @@
-## 🎥 AI Assistant
+<h2 align="center">🎥 AI Assistant</h2>
 
-https://github.com/hanana217/MoM-DIALECTA/blob/main/assistant.mp4
+<p align="center">
+  <video width="900" controls>
+    <source src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" type="video/mp4">
+  </video>
+</p>
 
-## 🎥 MOM Studio
+<h2 align="center">🎥 MOM Studio</h2>
 
-https://github.com/hanana217/MoM-DIALECTA/blob/main/mom%20studio.mp4
+<p align="center">
+  <video width="900" controls>
+    <source src="https://github.com/user-attachments/assets/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" type="video/mp4">
+  </video>
+</p>
