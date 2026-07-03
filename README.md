@@ -2,7 +2,7 @@
 
 <p align="center">
   <video width="900" controls>
-    <source src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" type="video/mp4">
+    <source src="https://github.com/hanana217/MoM-DIALECTA/blob/main/assistant.mp4" type="video/mp4">
   </video>
 </p>
 
@@ -10,6 +10,6 @@
 
 <p align="center">
   <video width="900" controls>
-    <source src="https://github.com/user-attachments/assets/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" type="video/mp4">
+    <source src="https://github.com/hanana217/MoM-DIALECTA/blob/main/mom%20studio.mp4" type="video/mp4">
   </video>
 </p>
